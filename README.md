@@ -1,5 +1,5 @@
 ### Olá eu sou o Ramon, adoro descobrir novas tecnologias e criar aplicações 😎
-Quero ingressar na carreira de desenvolvedor, estou dedicando meu tempo estudando conceitos de Fron-end, Back-end e banco de dados.
+Quero ingressar na carreira de desenvolvedor, gosto de saber um pouco de tudo por isso dedico meu tempo estudando conceitos de Fron-end, Back-end e banco de dados.
 
 Estou sempre a procura de tecnologias que agilizem a estilização das páginas 🤣🤣
 
