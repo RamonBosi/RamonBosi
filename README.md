@@ -1,4 +1,4 @@
-### Olá eu sou o *Ramon*  
+### Olá eu sou o *Ramon* ✌  
 
 Quero ingressar na carreira de desenvolvedor, gosto de saber um pouco de tudo por isso dedico meu tempo estudando conceitos de Fron-end, Back-end e banco de dados.
 
